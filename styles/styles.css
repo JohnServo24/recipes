@@ -18,4 +18,8 @@ body .container {
   border: solid 5px #faca72;
   border-radius: 20px;
 }
+
+body .container h1 {
+  border-bottom: 2px solid;
+}
 /*# sourceMappingURL=styles.css.map */
