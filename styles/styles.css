@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
 * {
   font-family: Helvetica, Arial, sans-serif;
 }
@@ -20,6 +21,21 @@ body .container {
 }
 
 body .container h1 {
+  font-family: 'Dancing Script', cursive;
   border-bottom: 2px solid;
+}
+
+body .container ul {
+  padding-left: 2%;
+}
+
+body .container ul li {
+  padding-bottom: 2%;
+}
+
+body .container ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
 }
 /*# sourceMappingURL=styles.css.map */
