@@ -13,7 +13,8 @@ body {
 
 body .container {
   background-color: red;
-  padding: 0 5rem 5rem 5rem;
+  width: 20%;
+  padding: 0 3rem 3rem 3rem;
   border: solid 5px #faca72;
   border-radius: 20px;
 }
